@@ -9,7 +9,7 @@ Batch: 57A Day<br />
 Semester: Fall-2024<br />
 
 ## XAMPP Installation (Screenshot)
-![XAMPP](images/XAMPP.png)
+![XAMPP](images/xampp.png)
 
 ## HeidiSQL Installation (Screenshot)
 ![HeidiSQL](images/HeidiSQL.png)
